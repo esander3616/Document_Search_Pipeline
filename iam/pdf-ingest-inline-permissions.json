@@ -1,0 +1,15 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {"Sid": "TextractAccess", "Effect": "Allow",
+         "Action": ["textract:DetectDocumentText", "textract:AnalyzeDocument"], "Resource": "*"},
+        {"Sid": "BedrockInvoke", "Effect": "Allow",
+         "Action": "bedrock:InvokeModel", "Resource": "*"},
+        {"Sid": "S3ReadWrite", "Effect": "Allow",
+         "Action": ["s3:GetObject", "s3:PutObject"],
+         "Resource": "arn:aws:s3:::capstone-doc-pipeline-eric/*"},
+        {"Sid": "GlueTrigger", "Effect": "Allow",
+         "Action": "glue:StartJobRun",
+         "Resource": "arn:aws:glue:us-east-1:155993390215:job/embed-chunks"}
+    ]
+}
