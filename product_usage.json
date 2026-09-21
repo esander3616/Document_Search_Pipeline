@@ -1,0 +1,1052 @@
+[
+  {
+    "user_id": "CUST-1165",
+    "feature_used": "export_report",
+    "usage_count": 26,
+    "session_date": "2026-09-21",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1037",
+    "feature_used": "team_sharing",
+    "usage_count": 7,
+    "session_date": "2026-09-12",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1029",
+    "feature_used": "team_sharing",
+    "usage_count": 14,
+    "session_date": "2026-09-02",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1222",
+    "feature_used": "bulk_upload",
+    "usage_count": 5,
+    "session_date": "2026-09-08",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1282",
+    "feature_used": "bulk_upload",
+    "usage_count": 4,
+    "session_date": "2026-09-19",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1114",
+    "feature_used": "team_sharing",
+    "usage_count": 4,
+    "session_date": "2026-09-19",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1203",
+    "feature_used": "dashboard",
+    "usage_count": 15,
+    "session_date": "2026-09-02",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1068",
+    "feature_used": "api_access",
+    "usage_count": 27,
+    "session_date": "2026-09-05",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1060",
+    "feature_used": "team_sharing",
+    "usage_count": 20,
+    "session_date": "2026-09-18",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1092",
+    "feature_used": "dashboard",
+    "usage_count": 38,
+    "session_date": "2026-09-19",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1096",
+    "feature_used": "api_access",
+    "usage_count": 7,
+    "session_date": "2026-09-18",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1032",
+    "feature_used": "team_sharing",
+    "usage_count": 4,
+    "session_date": "2026-09-20",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1254",
+    "feature_used": "team_sharing",
+    "usage_count": 28,
+    "session_date": "2026-09-11",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1299",
+    "feature_used": "bulk_upload",
+    "usage_count": 24,
+    "session_date": "2026-09-10",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1092",
+    "feature_used": "export_report",
+    "usage_count": 6,
+    "session_date": "2026-09-19",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1268",
+    "feature_used": "bulk_upload",
+    "usage_count": 22,
+    "session_date": "2026-09-15",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1311",
+    "feature_used": "dashboard",
+    "usage_count": 8,
+    "session_date": "2026-09-17",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1084",
+    "feature_used": "api_access",
+    "usage_count": 10,
+    "session_date": "2026-09-16",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1020",
+    "feature_used": "dashboard",
+    "usage_count": 49,
+    "session_date": "2026-09-18",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1160",
+    "feature_used": "api_access",
+    "usage_count": 45,
+    "session_date": "2026-09-12",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1254",
+    "feature_used": "team_sharing",
+    "usage_count": 30,
+    "session_date": "2026-09-03",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1138",
+    "feature_used": "bulk_upload",
+    "usage_count": 45,
+    "session_date": "2026-09-03",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1374",
+    "feature_used": "api_access",
+    "usage_count": 42,
+    "session_date": "2026-09-19",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1228",
+    "feature_used": "api_access",
+    "usage_count": 46,
+    "session_date": "2026-09-13",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1177",
+    "feature_used": "dashboard",
+    "usage_count": 30,
+    "session_date": "2026-09-12",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1312",
+    "feature_used": "dashboard",
+    "usage_count": 32,
+    "session_date": "2026-09-02",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1147",
+    "feature_used": "export_report",
+    "usage_count": 48,
+    "session_date": "2026-09-08",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1200",
+    "feature_used": "bulk_upload",
+    "usage_count": 6,
+    "session_date": "2026-09-06",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1205",
+    "feature_used": "team_sharing",
+    "usage_count": 18,
+    "session_date": "2026-09-05",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1281",
+    "feature_used": "api_access",
+    "usage_count": 46,
+    "session_date": "2026-09-14",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1349",
+    "feature_used": "bulk_upload",
+    "usage_count": 15,
+    "session_date": "2026-09-05",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1090",
+    "feature_used": "export_report",
+    "usage_count": 15,
+    "session_date": "2026-09-08",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1248",
+    "feature_used": "team_sharing",
+    "usage_count": 12,
+    "session_date": "2026-09-09",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1002",
+    "feature_used": "export_report",
+    "usage_count": 27,
+    "session_date": "2026-09-18",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1312",
+    "feature_used": "team_sharing",
+    "usage_count": 21,
+    "session_date": "2026-09-05",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1263",
+    "feature_used": "team_sharing",
+    "usage_count": 42,
+    "session_date": "2026-09-02",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1348",
+    "feature_used": "team_sharing",
+    "usage_count": 26,
+    "session_date": "2026-09-13",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1201",
+    "feature_used": "dashboard",
+    "usage_count": 31,
+    "session_date": "2026-09-21",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1031",
+    "feature_used": "export_report",
+    "usage_count": 5,
+    "session_date": "2026-09-07",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1083",
+    "feature_used": "dashboard",
+    "usage_count": 22,
+    "session_date": "2026-09-20",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1052",
+    "feature_used": "dashboard",
+    "usage_count": 37,
+    "session_date": "2026-09-05",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1051",
+    "feature_used": "api_access",
+    "usage_count": 40,
+    "session_date": "2026-09-01",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1106",
+    "feature_used": "team_sharing",
+    "usage_count": 25,
+    "session_date": "2026-09-05",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1129",
+    "feature_used": "api_access",
+    "usage_count": 39,
+    "session_date": "2026-09-12",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1062",
+    "feature_used": "dashboard",
+    "usage_count": 32,
+    "session_date": "2026-09-15",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1247",
+    "feature_used": "api_access",
+    "usage_count": 6,
+    "session_date": "2026-09-05",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1383",
+    "feature_used": "api_access",
+    "usage_count": 48,
+    "session_date": "2026-09-09",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1354",
+    "feature_used": "export_report",
+    "usage_count": 34,
+    "session_date": "2026-09-01",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1270",
+    "feature_used": "api_access",
+    "usage_count": 10,
+    "session_date": "2026-09-18",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1388",
+    "feature_used": "team_sharing",
+    "usage_count": 20,
+    "session_date": "2026-09-21",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1356",
+    "feature_used": "api_access",
+    "usage_count": 34,
+    "session_date": "2026-09-12",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1182",
+    "feature_used": "export_report",
+    "usage_count": 35,
+    "session_date": "2026-09-18",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1168",
+    "feature_used": "export_report",
+    "usage_count": 40,
+    "session_date": "2026-09-07",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1205",
+    "feature_used": "export_report",
+    "usage_count": 13,
+    "session_date": "2026-09-17",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1182",
+    "feature_used": "dashboard",
+    "usage_count": 2,
+    "session_date": "2026-09-09",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1132",
+    "feature_used": "export_report",
+    "usage_count": 45,
+    "session_date": "2026-09-20",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1228",
+    "feature_used": "api_access",
+    "usage_count": 24,
+    "session_date": "2026-09-03",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1052",
+    "feature_used": "export_report",
+    "usage_count": 31,
+    "session_date": "2026-09-07",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1104",
+    "feature_used": "bulk_upload",
+    "usage_count": 40,
+    "session_date": "2026-09-20",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1245",
+    "feature_used": "api_access",
+    "usage_count": 42,
+    "session_date": "2026-09-03",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1061",
+    "feature_used": "bulk_upload",
+    "usage_count": 46,
+    "session_date": "2026-09-07",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1091",
+    "feature_used": "bulk_upload",
+    "usage_count": 41,
+    "session_date": "2026-09-11",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1369",
+    "feature_used": "bulk_upload",
+    "usage_count": 30,
+    "session_date": "2026-09-13",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1043",
+    "feature_used": "export_report",
+    "usage_count": 11,
+    "session_date": "2026-09-05",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1077",
+    "feature_used": "team_sharing",
+    "usage_count": 30,
+    "session_date": "2026-09-21",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1313",
+    "feature_used": "team_sharing",
+    "usage_count": 31,
+    "session_date": "2026-09-12",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1280",
+    "feature_used": "team_sharing",
+    "usage_count": 9,
+    "session_date": "2026-09-01",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1371",
+    "feature_used": "dashboard",
+    "usage_count": 34,
+    "session_date": "2026-09-05",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1099",
+    "feature_used": "export_report",
+    "usage_count": 2,
+    "session_date": "2026-09-09",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1149",
+    "feature_used": "team_sharing",
+    "usage_count": 16,
+    "session_date": "2026-09-19",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1132",
+    "feature_used": "team_sharing",
+    "usage_count": 27,
+    "session_date": "2026-09-05",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1378",
+    "feature_used": "api_access",
+    "usage_count": 30,
+    "session_date": "2026-09-19",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1215",
+    "feature_used": "team_sharing",
+    "usage_count": 9,
+    "session_date": "2026-09-18",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1268",
+    "feature_used": "team_sharing",
+    "usage_count": 2,
+    "session_date": "2026-09-15",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1311",
+    "feature_used": "dashboard",
+    "usage_count": 50,
+    "session_date": "2026-09-05",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1072",
+    "feature_used": "bulk_upload",
+    "usage_count": 40,
+    "session_date": "2026-09-04",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1031",
+    "feature_used": "api_access",
+    "usage_count": 44,
+    "session_date": "2026-09-17",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1284",
+    "feature_used": "bulk_upload",
+    "usage_count": 50,
+    "session_date": "2026-09-04",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1029",
+    "feature_used": "export_report",
+    "usage_count": 13,
+    "session_date": "2026-09-09",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1050",
+    "feature_used": "team_sharing",
+    "usage_count": 29,
+    "session_date": "2026-09-18",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1389",
+    "feature_used": "dashboard",
+    "usage_count": 29,
+    "session_date": "2026-09-11",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1258",
+    "feature_used": "team_sharing",
+    "usage_count": 33,
+    "session_date": "2026-09-07",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1141",
+    "feature_used": "bulk_upload",
+    "usage_count": 33,
+    "session_date": "2026-09-18",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1259",
+    "feature_used": "export_report",
+    "usage_count": 45,
+    "session_date": "2026-09-17",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1286",
+    "feature_used": "export_report",
+    "usage_count": 29,
+    "session_date": "2026-09-05",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1062",
+    "feature_used": "bulk_upload",
+    "usage_count": 29,
+    "session_date": "2026-09-11",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1343",
+    "feature_used": "export_report",
+    "usage_count": 28,
+    "session_date": "2026-09-03",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1342",
+    "feature_used": "api_access",
+    "usage_count": 8,
+    "session_date": "2026-09-05",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1329",
+    "feature_used": "api_access",
+    "usage_count": 10,
+    "session_date": "2026-09-09",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1239",
+    "feature_used": "export_report",
+    "usage_count": 48,
+    "session_date": "2026-09-04",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1249",
+    "feature_used": "export_report",
+    "usage_count": 43,
+    "session_date": "2026-09-08",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1361",
+    "feature_used": "bulk_upload",
+    "usage_count": 33,
+    "session_date": "2026-09-13",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1215",
+    "feature_used": "export_report",
+    "usage_count": 23,
+    "session_date": "2026-09-11",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1369",
+    "feature_used": "api_access",
+    "usage_count": 2,
+    "session_date": "2026-09-11",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1234",
+    "feature_used": "bulk_upload",
+    "usage_count": 46,
+    "session_date": "2026-09-01",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1169",
+    "feature_used": "team_sharing",
+    "usage_count": 40,
+    "session_date": "2026-09-10",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1032",
+    "feature_used": "dashboard",
+    "usage_count": 15,
+    "session_date": "2026-09-04",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1135",
+    "feature_used": "api_access",
+    "usage_count": 3,
+    "session_date": "2026-09-06",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1386",
+    "feature_used": "export_report",
+    "usage_count": 28,
+    "session_date": "2026-09-09",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1076",
+    "feature_used": "team_sharing",
+    "usage_count": 33,
+    "session_date": "2026-09-19",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1358",
+    "feature_used": "api_access",
+    "usage_count": 6,
+    "session_date": "2026-09-09",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1352",
+    "feature_used": "export_report",
+    "usage_count": 28,
+    "session_date": "2026-09-03",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1008",
+    "feature_used": "dashboard",
+    "usage_count": 17,
+    "session_date": "2026-09-03",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1113",
+    "feature_used": "dashboard",
+    "usage_count": 17,
+    "session_date": "2026-09-04",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1005",
+    "feature_used": "api_access",
+    "usage_count": 36,
+    "session_date": "2026-09-14",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1318",
+    "feature_used": "export_report",
+    "usage_count": 3,
+    "session_date": "2026-09-17",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1122",
+    "feature_used": "dashboard",
+    "usage_count": 11,
+    "session_date": "2026-09-09",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1092",
+    "feature_used": "export_report",
+    "usage_count": 20,
+    "session_date": "2026-09-21",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1271",
+    "feature_used": "export_report",
+    "usage_count": 19,
+    "session_date": "2026-09-15",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1344",
+    "feature_used": "export_report",
+    "usage_count": 18,
+    "session_date": "2026-09-12",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1128",
+    "feature_used": "dashboard",
+    "usage_count": 1,
+    "session_date": "2026-09-01",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1258",
+    "feature_used": "team_sharing",
+    "usage_count": 13,
+    "session_date": "2026-09-17",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1125",
+    "feature_used": "bulk_upload",
+    "usage_count": 7,
+    "session_date": "2026-09-21",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1336",
+    "feature_used": "bulk_upload",
+    "usage_count": 35,
+    "session_date": "2026-09-13",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1157",
+    "feature_used": "export_report",
+    "usage_count": 15,
+    "session_date": "2026-09-11",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1361",
+    "feature_used": "export_report",
+    "usage_count": 26,
+    "session_date": "2026-09-12",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1066",
+    "feature_used": "dashboard",
+    "usage_count": 5,
+    "session_date": "2026-09-21",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1130",
+    "feature_used": "bulk_upload",
+    "usage_count": 11,
+    "session_date": "2026-09-02",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1340",
+    "feature_used": "bulk_upload",
+    "usage_count": 33,
+    "session_date": "2026-09-10",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1124",
+    "feature_used": "api_access",
+    "usage_count": 3,
+    "session_date": "2026-09-15",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1080",
+    "feature_used": "api_access",
+    "usage_count": 29,
+    "session_date": "2026-09-01",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1186",
+    "feature_used": "api_access",
+    "usage_count": 36,
+    "session_date": "2026-09-11",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1017",
+    "feature_used": "api_access",
+    "usage_count": 14,
+    "session_date": "2026-09-12",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1000",
+    "feature_used": "api_access",
+    "usage_count": 25,
+    "session_date": "2026-09-03",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1142",
+    "feature_used": "team_sharing",
+    "usage_count": 42,
+    "session_date": "2026-09-07",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1258",
+    "feature_used": "dashboard",
+    "usage_count": 6,
+    "session_date": "2026-09-09",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1073",
+    "feature_used": "bulk_upload",
+    "usage_count": 38,
+    "session_date": "2026-09-02",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1011",
+    "feature_used": "api_access",
+    "usage_count": 20,
+    "session_date": "2026-09-21",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1043",
+    "feature_used": "team_sharing",
+    "usage_count": 34,
+    "session_date": "2026-09-05",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1366",
+    "feature_used": "team_sharing",
+    "usage_count": 25,
+    "session_date": "2026-09-11",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1253",
+    "feature_used": "export_report",
+    "usage_count": 19,
+    "session_date": "2026-09-20",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1074",
+    "feature_used": "dashboard",
+    "usage_count": 46,
+    "session_date": "2026-09-17",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1219",
+    "feature_used": "team_sharing",
+    "usage_count": 9,
+    "session_date": "2026-09-17",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1291",
+    "feature_used": "dashboard",
+    "usage_count": 44,
+    "session_date": "2026-09-19",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1349",
+    "feature_used": "export_report",
+    "usage_count": 6,
+    "session_date": "2026-09-01",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1068",
+    "feature_used": "api_access",
+    "usage_count": 7,
+    "session_date": "2026-09-13",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1285",
+    "feature_used": "dashboard",
+    "usage_count": 41,
+    "session_date": "2026-09-01",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1272",
+    "feature_used": "export_report",
+    "usage_count": 32,
+    "session_date": "2026-09-09",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1233",
+    "feature_used": "dashboard",
+    "usage_count": 48,
+    "session_date": "2026-09-17",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1047",
+    "feature_used": "team_sharing",
+    "usage_count": 5,
+    "session_date": "2026-09-16",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1038",
+    "feature_used": "api_access",
+    "usage_count": 16,
+    "session_date": "2026-09-07",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1378",
+    "feature_used": "bulk_upload",
+    "usage_count": 32,
+    "session_date": "2026-09-13",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1245",
+    "feature_used": "api_access",
+    "usage_count": 50,
+    "session_date": "2026-09-02",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1323",
+    "feature_used": "export_report",
+    "usage_count": 5,
+    "session_date": "2026-09-20",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1169",
+    "feature_used": "api_access",
+    "usage_count": 42,
+    "session_date": "2026-09-10",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1290",
+    "feature_used": "export_report",
+    "usage_count": 1,
+    "session_date": "2026-09-16",
+    "device_type": "desktop"
+  },
+  {
+    "user_id": "CUST-1248",
+    "feature_used": "api_access",
+    "usage_count": 44,
+    "session_date": "2026-09-04",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1111",
+    "feature_used": "bulk_upload",
+    "usage_count": 19,
+    "session_date": "2026-09-17",
+    "device_type": "mobile"
+  },
+  {
+    "user_id": "CUST-1237",
+    "feature_used": "bulk_upload",
+    "usage_count": 30,
+    "session_date": "2026-09-04",
+    "device_type": "tablet"
+  },
+  {
+    "user_id": "CUST-1102",
+    "feature_used": "api_access",
+    "usage_count": 6,
+    "session_date": "2026-09-16",
+    "device_type": "desktop"
+  }
+]
